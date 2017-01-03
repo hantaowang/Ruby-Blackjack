@@ -10,7 +10,7 @@
      └───────────────────────────────────┘ |  $$$$$$/ └─────────────────────────────┘
      Built on Ruby                          \______/
      Version 1.01
-     by Will Wang @ hantaowang.me
+     by Will Wang @ www.hantaowang.me
 ======
 ####Background
 I taught myself Ruby originally because I wanted to eventually learn Rails and eventually also at the recommendation of my girlfriend, who had a wonderful introduction to Ruby [textbook](https://pine.fm/LearnToProgram/). I wanted my first major ruby program to be a blackjack game, which was also my first major program in Python. 
