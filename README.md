@@ -22,3 +22,6 @@ To run the game, you need to have Ruby downloaded and a command line interpreter
 
 ####Interesting Note
 This implemenation of blackjack is set up like how it would be at the casino: with a 6-deck stack called a "shoe," from which cards are drawn without replacement and refilled when needed. Because of this, it is possible to actually count cards or at least practice card counting without being kicked out of the casino. 
+
+####More like this
+This project was built by Hantao (Will) Wang. Find out more about me on my website!
