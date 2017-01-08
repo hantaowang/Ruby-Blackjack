@@ -13,7 +13,7 @@
      by Will Wang @ www.hantaowang.me
 ======
 ####Background
-I taught myself Ruby originally because I wanted to eventually learn Rails and eventually also at the recommendation of my girlfriend, who had a wonderful introduction to Ruby [textbook](https://pine.fm/LearnToProgram/). I wanted my first major ruby program to be a blackjack game, which was also my first major program in Python. 
+I taught myself Ruby originally because I wanted to learn Rails and eventually also at the recommendation of my girlfriend, who had a wonderful introduction to Ruby [textbook](https://pine.fm/LearnToProgram/). I wanted my first major ruby program to be a blackjack game, which was also my first major program in Python. 
 
 As it turns out, blackjack is a great program to test out the basics of a language, as it incorporates ideas such as flow control, iteration, arrays, mathematics, etc. This ruby implementation of blackjack is also my first to use object-orientated programming. The classes are defined in the `objects.rb` file. 
 
